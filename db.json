@@ -11,5 +11,27 @@
 			"midasRelease": "Midas Plus 1.4 SP04",
 			"clientName": "EUT-PAR"
 		}
+	],
+	
+	"users": [{
+			"username": "admin",
+			"password": "admin"
+		},
+		{
+			"username": "bossbuwi",
+			"password": "1234"
+		},
+		{
+			"username": "batman",
+			"password": "1234"
+		},
+		{
+			"username": "sparrow",
+			"password": "twit"
+		},
+		{
+			"username": "OPUSER01",
+			"password": "OPUSER01"
+		}
 	]
 }

@@ -2,5 +2,5 @@
 	"dashboarditems": [
 		{"doctype": "FTSD Draft","jiraKey": "MD-012345","midasRelease": "Fusion Midas 2.1 SP22","clientName": "UCI-LDN"},
 		{"doctype": "FTSD Draft","jiraKey": "MD-012346","midasRelease": "Midas Plus 1.4 SP04","clientName": "EUT-PAR"}
-	],
+	]
 }

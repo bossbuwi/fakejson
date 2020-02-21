@@ -47,60 +47,8 @@
 			"date_created": "2020-02-20T18:22:42+08:00",
 			"last_updated": "2020-02-20T18:22:42+08:00"
 		}
-	],
-
-	"documents": [{
-			"template": "http://man-ljyd6yt2:8000/templates/1/",
-			"ticket": "MD-55032",
-			"creator": "Jade Ericson Adriano",
-			"owner": "Jade Ericson Adriano",
-			"release": "Midasplus 1.2.1",
-			"client": "HELABA-LDN",
-			"sfdc": "02210284",
-			"client_ref": "N/A",
-			"description": "Upgrade of iSeries system components - MQ",
-			"date_created": "2020-02-20T18:30:48+08:00",
-			"last_updated": "2020-02-20T18:30:48+08:00"
-		},
-		{
-			"template": "http://man-ljyd6yt2:8000/templates/1/",
-			"ticket": "MD-123456",
-			"creator": "you",
-			"owner": "me",
-			"release": "Test Release",
-			"client": "Test Client",
-			"sfdc": "123456",
-			"client_ref": "N/A",
-			"description": "",
-			"date_created": "2020-02-21T13:53:46.012526+08:00",
-			"last_updated": "2020-02-21T13:53:46.012526+08:00"
-		},
-		{
-			"template": "http://man-ljyd6yt2:8000/templates/1/",
-			"ticket": "MD-000000",
-			"creator": "they",
-			"owner": "them",
-			"release": "First Release",
-			"client": "First Client",
-			"sfdc": "123456",
-			"client_ref": "N/A",
-			"description": "",
-			"date_created": "2020-02-21T13:55:24.330944+08:00",
-			"last_updated": "2020-02-21T13:55:24.330944+08:00"
-		},
-		{
-			"template": "http://man-ljyd6yt2:8000/templates/1/",
-			"ticket": "MD-52044",
-			"creator": "Michael John Mananghaya",
-			"owner": "Michael John Mananghaya",
-			"release": "R4.01.03",
-			"client": "DnB Bank Polska",
-			"sfdc": "1234566",
-			"client_ref": "N/A",
-			"description": "\"Description\"",
-			"date_created": "2020-02-21T15:20:23.072767+08:00",
-			"last_updated": "2020-02-21T15:20:23.072767+08:00"
-		}
 	]
+
+	
 
 }

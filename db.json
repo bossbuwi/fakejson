@@ -20,6 +20,24 @@
 			"password": "OPUSER01"
 		}
 	],
+	
+	"rules": [
+		{
+			"statement": "Please contact the system owners (Jen Flores or MJ Mananghaya) for the system password."
+		},
+		{
+			"statement": "Please fill up the information on the log correctly."
+		},
+		{
+			"statement": "Please delete compiled sources on xxINVLIB after using the system."
+		},
+		{
+			"statement": "Please return features that were turned ON or OFF after use."
+		},
+		{
+			"statement": "If possible, please reverse transactions after testing."
+		}
+	],
 
 	"templates": [{
 			"name": "Fix and Test Scope Document",

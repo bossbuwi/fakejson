@@ -1,4 +1,9 @@
 {
+	"configuration": [{
+			"loglevel": "verbose"
+		}
+	],
+	
 	"users": [{
 			"username": "admin",
 			"password": "admin"

@@ -1,6 +1,8 @@
 {
 	"configuration": [{
-			"loglevel": "V"
+			"id": 1,
+			"name": "loglevel"
+			"value": "verbose"
 		}
 	],
 	

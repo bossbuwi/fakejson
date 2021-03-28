@@ -2,7 +2,7 @@
 	"configuration": [{
 			"id": 1,
 			"name": "offline",
-			"value": "no"
+			"value": "N"
 		},
 		{
 			"id": 2,

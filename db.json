@@ -3,7 +3,16 @@
 			"id": 1,
 			"name": "loglevel",
 			"value": "V"
-		}
+		},
+		{
+			"id": 2,
+			"name": "devmode",
+			"value": "Y"
+		},
+		{
+			"id": 3,
+			"name": "theme",
+			"value": "light"
 	],
 	
 	"users": [{

@@ -1,7 +1,7 @@
 {
 	"configuration": [{
 			"id": 1,
-			"name": "loglevel"
+			"name": "loglevel",
 			"value": "verbose"
 		}
 	],

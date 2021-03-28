@@ -1,16 +1,21 @@
 {
 	"configuration": [{
 			"id": 1,
+			"name": "offline",
+			"value": "no"
+		},
+		{
+			"id": 2,
 			"name": "loglevel",
 			"value": "V"
 		},
 		{
-			"id": 2,
+			"id": 3,
 			"name": "devmode",
 			"value": "Y"
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"name": "theme",
 			"value": "light"
 		}

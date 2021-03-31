@@ -48,6 +48,9 @@
 		},
 		{
 			"username": "bossbuwi"
+		},
+		{
+			"username": "micmanan"
 		}
 	],
 	
@@ -66,6 +69,99 @@
 		},
 		{
 			"statement": "If possible, please reverse transactions after testing."
+		}
+	],
+	
+	"events": [
+		{
+			"_id": 1,
+			"user": "micmanan",
+			"system": "OS",
+			"zone": "O4",
+			"type": "IC",
+			"startYear": 2021,
+			"startMonth": 3,
+			"startDay": 30,
+			"endYear": 2021,
+			"endMonth": 3,
+			"endDay": 31,
+			"apiUsed": "OPAY",
+			"compiledSources": "LEC06A,SDCUSTPD",
+			"featureOn": "CRE010",
+			"featureOff": "CAP205,CAP206",
+			"jiraCase": "MD-12345"
+		},
+		{
+			"_id": 2,
+			"user": "micmanan",
+			"system": "OS",
+			"zone": "O5",
+			"type": "COB",
+			"startYear": 2021,
+			"startMonth": 3,
+			"startDay": 30,
+			"endYear": 2021,
+			"endMonth": 3,
+			"endDay": 31,
+			"apiUsed": "OPAY",
+			"compiledSources": "LEC06A,SDCUSTPD",
+			"featureOn": "CRE010",
+			"featureOff": "CAP205,CAP206",
+			"jiraCase": "MD-12345"
+		},
+		{
+			"_id": 3,
+			"user": "micmanan",
+			"system": "OS",
+			"zone": "O4",
+			"type": "IC",
+			"startYear": 2021,
+			"startMonth": 3,
+			"startDay": 31,
+			"endYear": 2021,
+			"endMonth": 3,
+			"endDay": 31,
+			"apiUsed": "OPAY",
+			"compiledSources": "LEC06A,SDCUSTPD",
+			"featureOn": "CRE010",
+			"featureOff": "CAP205,CAP206",
+			"jiraCase": "MD-12345"
+		},
+		{
+			"_id": 4,
+			"user": "micmanan",
+			"system": "OS",
+			"zone": "O4",
+			"type": "IC",
+			"startYear": 2021,
+			"startMonth": 3,
+			"startDay": 31,
+			"endYear": 2021,
+			"endMonth": 3,
+			"endDay": 31,
+			"apiUsed": "OPAY",
+			"compiledSources": "LEC06A,SDCUSTPD",
+			"featureOn": "CRE010",
+			"featureOff": "CAP205,CAP206",
+			"jiraCase": "MD-12345"
+		},
+		{
+			"_id": 5,
+			"user": "micmanan",
+			"system": "OS",
+			"zone": "O4",
+			"type": "IC",
+			"startYear": 2021,
+			"startMonth": 3,
+			"startDay": 31,
+			"endYear": 2021,
+			"endMonth": 4,
+			"endDay": 1,
+			"apiUsed": "OPAY",
+			"compiledSources": "LEC06A,SDCUSTPD",
+			"featureOn": "CRE010",
+			"featureOff": "CAP205,CAP206",
+			"jiraCase": "MD-12345"
 		}
 	]
 }
